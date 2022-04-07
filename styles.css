@@ -125,7 +125,7 @@ a{
     padding-left: 4rem;
 }
 
-/* .mess img{
+.messMain{
     margin-bottom: 2rem;
     width: 50rem;
     height: 35rem;
@@ -139,6 +139,22 @@ a{
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
     font-weight: 700px;
-} */
+}
+
+.mess1img{
+    height: 11rem;
+    width: 19rem;
+    position: absolute;
+    left: 53rem;    
+    top: 90rem;
+}
+
+.mess2img{
+    height: 15rem;
+    width: 10rem;
+    position: absolute;
+    top: 103rem;
+    left: 60rem;
+}
 
 
