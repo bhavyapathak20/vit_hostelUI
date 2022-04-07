@@ -70,13 +70,75 @@ a{
 
 }
 
-.Intro{
-    height: 100px;
-    width: 100px;
-}
-
 .Hostel_1{
     margin-top: 2.5rem;
     opacity: 0.6;
     position: absolute;
 }
+
+.color{
+    background-color: #242329;
+    height : 26rem;
+    width: 27rem;
+    position: absolute;
+    right: 4.5rem;
+    top: 10rem;
+    border-radius: 20px;
+}
+
+.hostel2{
+    background-color: #242329;
+    height: 37rem;
+    margin: 37rem 1.5rem 4rem 1.5rem;
+    border-radius: 20px;
+}
+
+.hostel2 h1{
+    text-align: center;
+    color: white;
+    font-family:'Poppins', sans-serif ;
+    font-size: 30px;
+    padding-top: 2rem;
+}
+
+.hostels{
+    height: 14rem;
+    width: 19rem;
+    position: relative;
+}
+
+.hos1{
+    padding-left: 2rem;
+    bottom: 2rem;
+    left: 2rem;
+}
+
+.hos2 , .hos3{
+    top: 15rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.hos4{
+    bottom: 16rem;
+    left: 50rem;
+    padding-left: 4rem;
+}
+
+/* .mess img{
+    margin-bottom: 2rem;
+    width: 50rem;
+    height: 35rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+}
+
+.mess h1{
+    position: absolute;
+    right: 9rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700px;
+} */
+
+
