@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+
+.Navbar{
+    height: 4rem;
+    position: relative;
+}
+
+.nav2{
+    background-color:#F5F5F5;
+    height: 3rem;
+    width: 25rem;
+    position: absolute;
+    left: 24rem;
+    top: 1.5rem;
+    border-radius: 35px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 20px;
+    padding-top: 15px;
+    padding-right: 10rem;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    padding: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;     
+}
+
+a{
+    text-decoration: none;
+    color: black;   
+}
+
+.brand{
+    height: 50px;
+    width: 180px;
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+}
+
+.login{
+    position: absolute;
+    right: 13rem;
+    border: none;
+    background-color: #EFEFEF;
+    height: 2rem;
+    width: 6rem;
+    font-size: 15px;
+    border-radius: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.signup{
+    position: absolute;
+    right: 6rem;
+    border: none;
+    background-color: #EFEFEF;
+    height: 2rem;
+    width: 6rem;
+    font-size: 15px;
+    border-radius: 14px;
+    font-family: 'Poppins', sans-serif;
+
+}
