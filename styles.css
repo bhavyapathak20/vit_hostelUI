@@ -69,3 +69,14 @@ a{
     font-family: 'Poppins', sans-serif;
 
 }
+
+.Intro{
+    height: 100px;
+    width: 100px;
+}
+
+.Hostel_1{
+    margin-top: 2.5rem;
+    opacity: 0.6;
+    position: absolute;
+}
